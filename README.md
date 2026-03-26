@@ -7,10 +7,10 @@
 ### 🚀 About Me
 I am a final-year engineering student at **IIT (ISM) Dhanbad**, bridging the gap between structural logic and digital systems. Whether I'm simulating fluids in **OpenFOAM** or building custom operating systems like **Terminate 1.1**, I thrive on solving complex problems.
 
-- 🔭 **Currently working on:** [FocusGuard](https://github.com/prateekgaurav/focusguard) - A high-productivity personal dashboard.
-- 🤖 **AI Research:** Developing **Anya**, a voice-controlled assistant using Llama 3.1.
+- 🔭 **My Professional Resume:** [Prateek Gaurav](prateekgaurav.dev) - U can check my work on my portfolio website.
+- 🤖 **AI Research:** Developing **Ai Chatbot**, a voice-controlled assistant using Llama 3.1 and other ai models performing vatious tasks with integrated tools.
 - 🏗️ **Civil Tech:** Specialized in **QGIS** and **AutoCAD** integration for smart logistics.
-- ⚡ **Fun Fact:** I’ve built a **Ben 10** card game and a **Harry Potter** power-tier list—big fan of deep lore and multiverses!
+- ⚡ **Fun Fact:** I’ve built multiple games, one chrome extension, mini operating system and more. 
 
 ---
 
@@ -43,8 +43,8 @@ I am a final-year engineering student at **IIT (ISM) Dhanbad**, bridging the gap
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/prateekgaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prateek Gaurav" height="30" width="40" /></a>
-<a href="mailto:your-email@iitism.ac.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prateek-gaurav-140508255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prateek Gaurav" height="30" width="40" /></a>
+<a href="mailto:prateekgaurav2005@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <div align="center">
