@@ -7,7 +7,7 @@
 ### 🚀 About Me
 I am a final-year engineering student at **IIT (ISM) Dhanbad**, bridging the gap between structural logic and digital systems. Whether I'm simulating fluids in **OpenFOAM** or building custom operating systems like **Terminate 1.1**, I thrive on solving complex problems.
 
-- 🔭 **My Professional Resume:** [Prateek Gaurav](prateekgaurav.dev) - U can check my work on my portfolio website.
+- 🔭 **My Professional Resume:** [Prateek Gaurav](https://www.prateekgaurav.dev/) - U can check my work on my portfolio website.
 - 🤖 **AI Research:** Developing **Ai Chatbot**, a voice-controlled assistant using Llama 3.1 and other ai models performing vatious tasks with integrated tools.
 - 🏗️ **Civil Tech:** Specialized in **QGIS** and **AutoCAD** integration for smart logistics.
 - ⚡ **Fun Fact:** I’ve built multiple games, one chrome extension, mini operating system and more. 
